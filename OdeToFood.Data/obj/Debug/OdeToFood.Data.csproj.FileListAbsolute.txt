@@ -1,0 +1,4 @@
+C:\Users\samee\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\samee\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\samee\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\samee\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
